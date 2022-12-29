@@ -23,6 +23,18 @@ tl.from("#page1 h1", {
 		ease: Expo.easeInOut.power2,
 	});
 
+gsap.from("#page4", {
+	x: -50,
+	opacity: 0,
+	scrollTrigger: {
+		trigger: "#page4",
+		scroller: "body",
+		// markers: true,
+		start: "top 70%",
+		scrub: 2,
+	},
+});
+
 gsap.to("#page2 img", {
 	scale: 1,
 	scrollTrigger: {
@@ -45,4 +57,33 @@ gsap.to("#page2 h1", {
 		start: "top 60%",
 		end: "top 15%",
 	},
+});
+
+var slide1 = document.querySelectorAll("#page6 .slide1-of-h1 h1");
+slide1.forEach(function (elem) {
+	gsap.to(elem, {
+		transform: "translateX(-100%)",
+		duration: 4,
+		scrollTrigger: {
+			trigger: "#page6",
+			scroller: "body",
+			start: "top 95%",
+			// markers: true,
+			scrub: 2,
+		},
+	});
+});
+var slide2 = document.querySelectorAll("#page6 .slide2-of-h1 h1");
+slide2.forEach(function (elem) {
+	gsap.to(elem, {
+		transform: "translateX(0)",
+		duration: 4,
+		scrollTrigger: {
+			trigger: "#page6",
+			scroller: "body",
+			start: "top 95%",
+			// markers: true,
+			scrub: 2,
+		},
+	});
 });
