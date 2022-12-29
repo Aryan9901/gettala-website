@@ -412,3 +412,52 @@ html {
 	width: fit-content;
 	margin-bottom: 9vw;
 }
+
+#page5-content img {
+	animation: rotate 2s infinite;
+	animation-delay: -1s;
+	animation-timing-function: linear;
+}
+
+@keyframes rotate {
+	0% {
+		transform: rotateZ(0deg);
+	}
+	/* 50% {
+		transform: rotateZ(180deg);
+	} */
+	100% {
+		transform: rotateZ(360deg);
+	}
+}
+
+#page6 h1 {
+	font-size: 10vw;
+	text-transform: uppercase;
+	cursor: default;
+	line-height: 22vh;
+}
+#page6 .slide1-of-h1 {
+	overflow-x: auto;
+	overflow-y: hidden;
+}
+#page6 .slide1-of-h1::-webkit-scrollbar {
+	display: none;
+}
+#page6 .slide2-of-h1::-webkit-scrollbar {
+	display: none;
+}
+#page6 .slide2-of-h1 {
+	overflow-x: auto;
+	overflow-y: hidden;
+}
+#page6 .slide2-of-h1 h1 {
+	transform: translateX(-200%);
+}
+#page6 h1 .one2 {
+	color: transparent;
+	-webkit-text-stroke: 1px #adadad;
+}
+#page6 {
+	height: 300vh;
+}
