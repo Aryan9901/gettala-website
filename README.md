@@ -6,7 +6,8 @@
     </div>
     <br />
     <a href="https://aryan9901.github.io/gettala-website/" target="_blank">
-      <img src="https://github.com/Aryan9901/gettala-website/blob/main/gettala.gif"center">
+      <img src="https://github.com/Aryan9901/gettala-website/blob/main/gettala.gif" center">
+    </a>
   <br />
   <br />
 </div>
