@@ -16,8 +16,7 @@
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
-4. 🤸 [How to Play](#howtoplay)
-5. 🤸 [Quick Setup](#quick-setup)
+4. 🤸 [Quick Setup](#quick-setup)
 
 ## <a name="introduction">🤖 Introduction</a>
 
