@@ -1,6 +1,8 @@
 <div align="center">
    <h1 align="left">GET TALA WEBSITE</h1>
-     Check out the live demo [Live Demo](https://aryan9901.github.io/guess-the-number/).
+   <a href="https://aryan9901.github.io/gettala-website/" target="_blank">   
+      Check out the live demo.🔗
+    </a>
    <div align="left">
        "Gettala" is a sleek, HTML, CSS, and JS-powered website promoting fruit-based snacks with vibrant animations courtesy of GSAP. With taglines like "Snack should always contain fruit" and "Bringing fruit snacks back to their roots," it champions the flavorful essence of its products, enticing visitors to explore its offerings.
     </div>
