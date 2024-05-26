@@ -14,6 +14,7 @@
   <br />
 </div>
 ## 📋 <a name="table">Table of Contents</a>
+Check out the live demo [Live Demo](https://aryan9901.github.io/gettala-website/).
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
