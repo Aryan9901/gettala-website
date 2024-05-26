@@ -1,6 +1,6 @@
 <div align="center">
    <h1 align="left">GET TALA WEBSITE</h1>
-   <a href="https://aryan9901.github.io/gettala-website/" target="_blank">   
+   <a style="text-align:left" href="https://aryan9901.github.io/gettala-website/" target="_blank">   
       Check out the live demo.🔗
     </a>
    <div align="left">
