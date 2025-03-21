@@ -1,5 +1,4 @@
-/** @format */
-// logic section
+
 
 function openmenu() {
 	var flag = 0;
