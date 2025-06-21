@@ -3,7 +3,6 @@
 
 
 
-
 function openmenu() {
 	
 	var flag = 0;
