@@ -4,9 +4,7 @@ function openmenu() {
 	var line1 = document.getElementById("line1");
 	var line2 = document.getElementById("line2");
 	
-	
 	menu.addEventListener("click", () => {
-		
 		if (flag === 0) {
 			document.getElementById("topmenu").style.transform = `translateY(0)`;
 			
