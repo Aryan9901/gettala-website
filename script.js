@@ -1,8 +1,6 @@
 
 
 
-
-
 function openmenu() {
 	var flag = 0;
 	var menu = document.querySelector("#menu");
