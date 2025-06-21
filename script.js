@@ -1,14 +1,25 @@
 
 
+
+
+
+
 function openmenu() {
+	
 	var flag = 0;
 	var menu = document.querySelector("#menu");
+	
 	var line1 = document.getElementById("line1");
+	
 	var line2 = document.getElementById("line2");
+	
 
+	
 	menu.addEventListener("click", () => {
+		
 		if (flag === 0) {
 			document.getElementById("topmenu").style.transform = `translateY(0)`;
+			
 			document.getElementById("nav").style.color = "#232025";
 			flag = 1;
 			line1.style.backgroundColor = "#232025";
