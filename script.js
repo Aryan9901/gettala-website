@@ -6,9 +6,6 @@ function openmenu() {
 
 
 
-
-
-
 	
 	
 	menu.addEventListener("click", () => {
