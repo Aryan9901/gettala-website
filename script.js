@@ -8,7 +8,6 @@ function openmenu() {
 
 
 
-
 	
 	var line2 = document.getElementById("line2");
 	
