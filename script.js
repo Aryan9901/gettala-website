@@ -3,6 +3,16 @@ function openmenu() {
 	var menu = document.querySelector("#menu");
 	var line1 = document.getElementById("line1");
 	var line2 = document.getElementById("line2");
+
+
+
+
+
+
+
+
+
+
 	
 	menu.addEventListener("click", () => {
 		if (flag === 0) {
