@@ -5,8 +5,6 @@ function openmenu() {
 	var line2 = document.getElementById("line2");
 
 
-
-
 	
 	menu.addEventListener("click", () => {
 		if (flag === 0) {
