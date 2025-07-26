@@ -11,8 +11,6 @@ function openmenu() {
 
 
 
-
-
 	
 	menu.addEventListener("click", () => {
 		if (flag === 0) {
